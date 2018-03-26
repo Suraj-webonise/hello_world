@@ -4,7 +4,9 @@ namespace hello
    public static void main(string[] args)
    
     {
-      Console.WriteLine("Hello World");
+      string msg="Hello World";
+      Console.WriteLine(msg);
+      
       Console.ReadLine();
       
     }
